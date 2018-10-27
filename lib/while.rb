@@ -4,4 +4,7 @@ def using_while
   #your code here
 end
 
-while 
+counter = 6
+
+while counter < 10
+puts
