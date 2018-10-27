@@ -3,10 +3,10 @@ def using_while
 	
   #your code here
 end
+
 counter = 6
 def using_while
-
-while counter < 10
+  while counter < 10
   puts "windgardium Leviosa"
   counter += 1
 end
