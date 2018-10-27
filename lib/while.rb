@@ -5,6 +5,5 @@ def using_while
 end
 
 counter = 6
-
 while counter < 10
-puts
+  puts "windgardium Leviosa"
